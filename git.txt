@@ -1,0 +1,8 @@
+git status 查看状态
+git add .  添加到本地暂缓区
+git commit -m  '提交的注释'
+git push 添加到线上
+git checkout master  切换分支
+git merge  origin/...   合并那个分支
+git push  再push一次
+git pull 服务器仓库更新到本地
