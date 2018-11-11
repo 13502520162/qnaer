@@ -9,3 +9,15 @@
 
 # 下载 后    先 npm init   然后 npm run dev
 
+
+# 用到的组件有 
+vue 
+vue-router  路由
+vuex  状态管理
+vue-awesome-swiper swiper轮播
+stylus   css样式组件
+fastclick   解决移动端 点击 有300MS的延迟 
+babel-polyfill   解决ios端空白页组件
+
+icon用的是  阿里的图标
+
